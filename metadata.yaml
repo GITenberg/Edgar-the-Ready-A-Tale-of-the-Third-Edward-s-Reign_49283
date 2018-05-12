@@ -1,4 +1,5 @@
 _repo: Edgar-the-Ready-A-Tale-of-the-Third-Edward-s-Reign_49283
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Sheldon, Charles M.
@@ -8,12 +9,17 @@ contributor:
     gutenberg_agent_id: '1495'
     url: http://www.gutenberg.org/2009/agents/1495
     wikipedia: http://en.wikipedia.org/wiki/Charles_Sheldon
+covers:
+- cover_type: archival
+  image_path: 49283-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Shervill, W. P.
     gutenberg_agent_id: '32145'
     url: http://www.gutenberg.org/2009/agents/32145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49283#Edgar-the-Ready-A-Tale-of-the-Third-Edward-s-Reign
 gutenberg_issued: '2015-06-25'
 gutenberg_type: Text
 identifiers:
